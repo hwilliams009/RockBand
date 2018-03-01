@@ -1,0 +1,17 @@
+body, html {
+	height: 100%;
+    margin: 0;
+    font-family	: Arial, Helvetica, sans-serif;
+}
+body {
+	background: #e0e0e0;
+	color: #FFFF00;
+	font-size: 76%;
+	padding: 0px;
+	background-image: url(images/bg2.jpg);
+	background-position: center top;
+}
+
+#st1, #st3 {
+	display: none;
+}
